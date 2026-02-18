@@ -1,3 +1,10 @@
+### [8.3.2](https://github.com/twilio/twilio-cli-core/compare/8.3.1...8.3.2) (2026-02-18)
+
+
+### Library - Fixes
+
+* Regional Endpoint Processing ([#303](https://github.com/twilio/twilio-cli-core/issues/303)) ([fadef91](https://github.com/twilio/twilio-cli-core/commit/fadef916162122e5d72238f36c47cb9b95f33b7c))
+
 ### [8.3.1](https://github.com/twilio/twilio-cli-core/compare/8.3.0...8.3.1) (2026-01-07)
 
 --------------------------
